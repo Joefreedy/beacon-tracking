@@ -9,6 +9,7 @@
   "author": "each",
   "license": "ISC",
   "dependencies": {
+    "kalmanjs": "^1.0.0-beta",
     "noble": "^1.3.0"
   }
 }
