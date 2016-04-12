@@ -1,1 +1,1 @@
-# beacon-tracking
+# beacons
