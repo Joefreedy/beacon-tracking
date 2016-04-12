@@ -1,8 +1,8 @@
 # beacon-tracking
 
 
-# Node.js BLE
+#### Node.js BLE ####
   npm install noble
 
-# Kalman filters
+#### Kalman filters ####
   npm install kalmanjs
